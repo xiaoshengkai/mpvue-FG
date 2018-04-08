@@ -1,27 +1,45 @@
 # 美食搜索
 
-> A Mpvue project
+> mpvue 初次尝鲜
 
-## Build Setup
+## 主要有三小个功能
+
+### 上拉加载，下拉刷新
+``` bash
+...
+onPullDownRefresh () {
+  ...
+},
+onReachBottom () {
+  ...
+}，
+data () {
+  ...
+}
+...
+为什么把这个摘出来，因为这两个可以直接用在生命周期里面
+```
+***
+### 搜索
+***
+### 地图插件
+``` bash
+调用原生小程序的组件 <map/>
+
+```
+***
+
+### 注：
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+我觉得，会vue的上手mpvue难度不大，但是别把原生的小程序组件或者api给抛弃了，毕竟根本还是小程序呀
+所有，我觉得最好的方式是，在开发中结合小程序文档一起进行
+一起，共勉加油！！！
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 # 演示
 ![](http://p6v49iw9y.bkt.clouddn.com/Jietu20180408-191413-HD%20%281%29.gif)
 
 ![](http://p6v49iw9y.bkt.clouddn.com/Jietu20180408-194915-HD.gif)
+
 
