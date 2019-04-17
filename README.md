@@ -38,7 +38,7 @@ data () {
 ```
 
 # 演示
-![](http://p6v49iw9y.bkt.clouddn.com/Jietu20180408-191413-HD%20%281%29.gif)
+![](http://mpv-blog.oss-cn-beijing.aliyuncs.com/mpvue.gif?Expires=1555517212&OSSAccessKeyId=TMP.AQFF-3wKh892sJ2Xko0VUfGN67-Ed-Bk-knKBMhY6ZeGgcoDtbLHkvHaVX3pADAtAhQJC18JgiSqa_j0jc4G9eSSDi9YrAIVALe_RFoKtnJrfGPo4GpM2xolCqBE&Signature=OVp5ZAGlx85SqT%2BYRP9pJz83e48%3D)
 
 ![](http://p6v49iw9y.bkt.clouddn.com/Jietu20180408-194915-HD.gif)
 
